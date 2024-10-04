@@ -42,7 +42,7 @@
     width: 50%;
 }
 .flex .image{
-    overflow: hidden;
+    /* overflow: hidden; */
     width: 22em;
     height: 100%;
     border: #000000 2px solid;
