@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+    font-family: "Rubik", sans-serif;
+}
 .nav_bar ul{
     display: flex;
     flex-direction: row;
@@ -27,6 +31,11 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    footer{
+        font-style: oblique;
+        font-size: 90%;
+        margin: 0 0 .2em 0;
+    }
 }
 .flex .box button{
     margin: 2em 0 2em 0;
